@@ -1,5 +1,7 @@
 # ExploreHub
-Responsive web application for place search using JQuery, Ajax, JSON and Bootstrap 4. It uses NodeJS - Express web application framework.
+A web application for place search using Ajax, Google Map APIs, JSON and Responsive Design. It uses NodeJS - Express web application framework , JQuery for client-side scripting and Bootstrap 4 for responsive design.
+
+One can explore Restaurants, Airports, Salon, Clubs, School etc. through this website.
 
 Objectives:
 
